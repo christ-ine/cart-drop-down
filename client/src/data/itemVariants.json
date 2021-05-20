@@ -1,0 +1,94 @@
+[
+    {
+        "id": "1A",
+        "title" : "Lorem ipsum 1",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "imageUrl" : "/images/sunglasses.jpeg",
+        "color": "purple"
+    },
+    {
+        "id": "1B",
+        "title" : "Lorem ipsum 1",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "imageUrl" : "/images/sunglasses.jpeg",
+        "color": "blue"
+    },
+    {
+        "id": "1C",
+        "title" : "Lorem ipsum 1",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "imageUrl" : "/images/sunglasses.jpeg",
+        "color": "pink"
+    },
+
+    {
+        "id": "2A",
+        "title" : "Lorem ipsum 2",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "imageUrl" : "/images/barstool.jpg",
+        "color": "purple"
+    },
+
+    {
+        "id": "2B",
+        "title" : "Lorem ipsum 2",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "imageUrl" : "/images/barstool.jpg",
+        "color": "blue"
+    },
+
+    {
+        "id": "2C",
+        "title" : "Lorem ipsum 2",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "imageUrl" : "/images/barstool.jpg",
+        "color": "pink"
+    },
+
+    {
+        "id":"3A",
+        "title" : "Lorem ipsum 3",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "imageUrl" : "/images/airpods.jpg",
+        "color": "purple"
+    },
+    {
+        "id":"3B",
+        "title" : "Lorem ipsum 3",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "imageUrl" : "/images/airpods.jpg",
+        "color": "blue"
+    },
+    {
+        "id":"3C",
+        "title" : "Lorem ipsum 3",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "imageUrl" : "/images/airpods.jpg",
+        "color": "pink"
+    },
+
+    {
+        "id": "4A",
+        "title" : "Lorem ipsum 4",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "imageUrl" : "/images/plant.jpg",
+        "color": "purple"
+    },
+
+    {
+        "id": "4B",
+        "title" : "Lorem ipsum 4",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "imageUrl" : "/images/plant.jpg",
+        "color": "blue"
+    },
+
+    {
+        "id": "4C",
+        "title" : "Lorem ipsum 4",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "imageUrl" : "/images/plant.jpg",
+        "color": "pink"
+    }
+
+]

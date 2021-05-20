@@ -1,0 +1,39 @@
+.countdown-header {
+    display: flex;
+    height: 50px;
+    width: 100%;
+    background-color: #1F3162;
+    justify-content: center;
+
+}
+
+.countdown-content {
+    display: flex;
+    height: 44px;
+    max-width: 671px;
+    justify-content: center;
+}
+
+.countdown-text {
+    height: 31px;
+    max-width: 1440px;;
+    color: rgba(255,255,255,0.72);
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 31px;
+  
+}
+
+.timer {
+    height: 44px;
+    width: 211px;
+    color: #FFFFFF;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    line-height: 20px;
+    text-align: center;
+  
+}

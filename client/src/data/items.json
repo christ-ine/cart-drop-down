@@ -1,0 +1,49 @@
+[
+    {
+        "title" : "Lorem ipsum 1",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "imageUrl" : "/images/sunglasses.jpeg",
+        "variants": [
+            {"id": "1A", "color": "purple"},
+            {"id": "1B", "color": "blue"},
+            {"id": "1C", "color": "pink"}
+
+        ]
+    },
+
+    {
+        "title" : "Lorem ipsum 2",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "imageUrl" : "/images/barstool.jpg",
+        "variants": [
+            {"id": "2A", "color": "purple"},
+            {"id": "2B", "color": "blue"},
+            {"id": "2C", "color": "pink"}
+
+        ]
+    },
+
+    {
+        "title" : "Lorem ipsum 3",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "imageUrl" : "/images/airpods.jpg",
+        "variants": [
+            {"id": "3A", "color": "purple"},
+            {"id": "3B", "color": "blue"},
+            {"id": "3C", "color": "pink"}
+
+        ]
+    },
+
+    {
+        "title" : "Lorem ipsum 4",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "imageUrl" : "/images/plant.jpg",
+        "variants": [
+            {"id": "4A", "color": "purple"},
+            {"id": "4B", "color": "blue"},
+            {"id": "4C", "color": "pink"}
+        ]
+    }
+
+]
